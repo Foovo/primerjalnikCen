@@ -1,0 +1,10 @@
+si\fri\prpo\skupina02\api\v1\viri\IzdelekVir.class
+si\fri\prpo\skupina02\servleti\JPAServlet.class
+si\fri\prpo\skupina02\api\v1\exceptionmappers\NeveljavenUstvariUporabnikaDTOIzjemaExceptionMapper.class
+si\fri\prpo\skupina02\api\v1\PrimerjalnikCenApplication.class
+si\fri\prpo\skupina02\api\v1\viri\UporabnikVir.class
+META-INF\resources\java.lang.Object
+META-INF\services\javax.ws.rs.core.Application
+si\fri\prpo\skupina02\api\v1\viri\IzdelekVTrgoviniVir.class
+si\fri\prpo\skupina02\api\v1\viri\KosaricaVir.class
+si\fri\prpo\skupina02\api\v1\viri\TrgovinaVir.class

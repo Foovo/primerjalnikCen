@@ -1,0 +1,20 @@
+kumuluzee:
+  name: primerjalnik-cen
+  version: 1.0.0
+  env:
+    name: dev
+  dev:
+    scan-libraries:
+      - entitete
+      - storitve
+  datasources:
+      - jndi-name: jdbc/PrimerjalnikCenDS
+        connection-url: jdbc:postgresql://localhost:5432/primerjalnikcen
+        username: postgres
+        password: postgres
+  openapi-mp:
+    enabled: true
+    ui:
+      server-auto-config:
+        enabled: true
+        original-uri-check: true
